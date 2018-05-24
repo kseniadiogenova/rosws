@@ -1,0 +1,8 @@
+prefix=/home/ros/Desktop/rosws/devel
+
+Name: quad_3dnav
+Description: Description of quad_3dnav
+Version: 0.3.0
+Cflags: 
+Libs: -L/home/ros/Desktop/rosws/devel/lib 
+Requires: 

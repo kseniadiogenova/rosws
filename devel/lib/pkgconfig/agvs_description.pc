@@ -1,0 +1,8 @@
+prefix=/home/ros/Desktop/rosws/devel
+
+Name: agvs_description
+Description: Description of agvs_description
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/ros/Desktop/rosws/devel/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/ros/Desktop/rosws/devel
+
+Name: agvs_control
+Description: Description of agvs_control
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/ros/Desktop/rosws/devel/lib 
+Requires: 
