@@ -1,0 +1,8 @@
+# CMake generated Testfile for 
+# Source directory: /home/ros/Desktop/rosws/src/ros_control/combined_robot_hw_tests
+# Build directory: /home/ros/Desktop/rosws/build/ros_control/combined_robot_hw_tests
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+add_test(_ctest_combined_robot_hw_tests_rostest_test_combined_robot_hw_test.test "/home/ros/Desktop/rosws/build/catkin_generated/env_cached.sh" "/usr/bin/python" "/opt/ros/kinetic/share/catkin/cmake/test/run_tests.py" "/home/ros/Desktop/rosws/build/test_results/combined_robot_hw_tests/rostest-test_combined_robot_hw_test.xml" "--return-code" "/opt/ros/kinetic/share/rostest/cmake/../../../bin/rostest --pkgdir=/home/ros/Desktop/rosws/src/ros_control/combined_robot_hw_tests --package=combined_robot_hw_tests --results-filename test_combined_robot_hw_test.xml --results-base-dir \"/home/ros/Desktop/rosws/build/test_results\" /home/ros/Desktop/rosws/src/ros_control/combined_robot_hw_tests/test/combined_robot_hw_test.test ")
+add_test(_ctest_combined_robot_hw_tests_rostest_test_cm_test.test "/home/ros/Desktop/rosws/build/catkin_generated/env_cached.sh" "/usr/bin/python" "/opt/ros/kinetic/share/catkin/cmake/test/run_tests.py" "/home/ros/Desktop/rosws/build/test_results/combined_robot_hw_tests/rostest-test_cm_test.xml" "--return-code" "/opt/ros/kinetic/share/rostest/cmake/../../../bin/rostest --pkgdir=/home/ros/Desktop/rosws/src/ros_control/combined_robot_hw_tests --package=combined_robot_hw_tests --results-filename test_cm_test.xml --results-base-dir \"/home/ros/Desktop/rosws/build/test_results\" /home/ros/Desktop/rosws/src/ros_control/combined_robot_hw_tests/test/cm_test.test ")

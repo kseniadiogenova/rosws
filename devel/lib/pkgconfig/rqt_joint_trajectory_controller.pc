@@ -1,0 +1,8 @@
+prefix=/home/ros/Desktop/rosws/devel
+
+Name: rqt_joint_trajectory_controller
+Description: Description of rqt_joint_trajectory_controller
+Version: 0.14.0
+Cflags: 
+Libs: -L/home/ros/Desktop/rosws/devel/lib 
+Requires: 

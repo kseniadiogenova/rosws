@@ -1,0 +1,8 @@
+prefix=/home/ros/Desktop/rosws/devel
+
+Name: combined_robot_hw
+Description: Description of combined_robot_hw
+Version: 0.15.0
+Cflags: -I/home/ros/Desktop/rosws/src/ros_control/combined_robot_hw/include
+Libs: -L/home/ros/Desktop/rosws/devel/lib -lcombined_robot_hw
+Requires: hardware_interface pluginlib roscpp

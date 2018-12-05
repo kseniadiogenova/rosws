@@ -1,0 +1,8 @@
+prefix=/home/ros/Desktop/rosws/install
+
+Name: agvs_pad
+Description: Description of agvs_pad
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/ros/Desktop/rosws/install/lib 
+Requires: robotnik_msgs ackermann_msgs

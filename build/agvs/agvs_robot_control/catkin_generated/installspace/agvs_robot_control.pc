@@ -1,0 +1,8 @@
+prefix=/home/ros/Desktop/rosws/install
+
+Name: agvs_robot_control
+Description: Description of agvs_robot_control
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/ros/Desktop/rosws/install/lib 
+Requires: roscpp robotnik_msgs sensor_msgs std_srvs std_msgs tf ackermann_msgs

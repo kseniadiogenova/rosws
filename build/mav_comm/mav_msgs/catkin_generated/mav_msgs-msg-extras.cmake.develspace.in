@@ -1,0 +1,2 @@
+set(mav_msgs_MESSAGE_FILES "/home/ros/Desktop/rosws/src/mav_comm/mav_msgs/msg/CommandAttitudeThrust.msg;/home/ros/Desktop/rosws/src/mav_comm/mav_msgs/msg/CommandMotorSpeed.msg;/home/ros/Desktop/rosws/src/mav_comm/mav_msgs/msg/CommandRateThrust.msg;/home/ros/Desktop/rosws/src/mav_comm/mav_msgs/msg/CommandRollPitchYawrateThrust.msg;/home/ros/Desktop/rosws/src/mav_comm/mav_msgs/msg/CommandTrajectory.msg;/home/ros/Desktop/rosws/src/mav_comm/mav_msgs/msg/CommandVelocityTrajectory.msg;/home/ros/Desktop/rosws/src/mav_comm/mav_msgs/msg/MotorSpeed.msg")
+set(mav_msgs_SERVICE_FILES "")

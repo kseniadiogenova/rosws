@@ -1,0 +1,8 @@
+prefix=/home/ros/Desktop/rosws/install
+
+Name: autonomous_quadrotor
+Description: Description of autonomous_quadrotor
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/ros/Desktop/rosws/install/lib 
+Requires: 

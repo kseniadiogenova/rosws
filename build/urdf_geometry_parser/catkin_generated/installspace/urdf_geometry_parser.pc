@@ -1,0 +1,8 @@
+prefix=/home/ros/Desktop/rosws/install
+
+Name: urdf_geometry_parser
+Description: Description of urdf_geometry_parser
+Version: 0.0.3
+Cflags: -I/home/ros/Desktop/rosws/install/include
+Libs: -L/home/ros/Desktop/rosws/install/lib -lurdf_geometry_parser
+Requires: roscpp urdf tf2

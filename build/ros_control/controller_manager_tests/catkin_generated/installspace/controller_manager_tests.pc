@@ -1,0 +1,8 @@
+prefix=/home/ros/Desktop/rosws/install
+
+Name: controller_manager_tests
+Description: Description of controller_manager_tests
+Version: 0.15.0
+Cflags: -I/home/ros/Desktop/rosws/install/include
+Libs: -L/home/ros/Desktop/rosws/install/lib -lcontroller_manager_tests
+Requires: controller_manager controller_interface

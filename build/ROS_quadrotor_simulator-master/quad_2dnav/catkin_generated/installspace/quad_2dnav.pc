@@ -1,0 +1,8 @@
+prefix=/home/ros/Desktop/rosws/install
+
+Name: quad_2dnav
+Description: Description of quad_2dnav
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ros/Desktop/rosws/install/lib 
+Requires: 

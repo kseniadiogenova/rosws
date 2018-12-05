@@ -1,0 +1,8 @@
+prefix=/home/ros/Desktop/rosws/devel
+
+Name: robotnik_msgs
+Description: Description of robotnik_msgs
+Version: 0.2.3
+Cflags: -I/home/ros/Desktop/rosws/devel/include
+Libs: -L/home/ros/Desktop/rosws/devel/lib 
+Requires: actionlib_msgs message_runtime std_msgs
